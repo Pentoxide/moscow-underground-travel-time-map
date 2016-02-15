@@ -40,6 +40,6 @@
 { "type": "Feature", "properties": { "name": "Star Lane", "tfl_statid": null, "lines": "L", "networks": "(1:DLR)", "tfl_nlcid": "889" }, "geometry": { "type": "Point", "coordinates": [ 0.0041749, 51.520559399999982 ] } },
 { "type": "Feature", "properties": { "name": "Abbey Road", "tfl_statid": null, "lines": "L", "networks": "(1:DLR)", "tfl_nlcid": "750" }, "geometry": { "type": "Point", "coordinates": [ 0.0035303, 51.5323936 ] } },
 { "type": "Feature", "properties": { "name": "Stratford High Street", "tfl_statid": null, "lines": "L", "networks": "(1:DLR)", "tfl_nlcid": "749" }, "geometry": { "type": "Point", "coordinates": [ -0.0003379, 51.537698699999979 ] } },
-{ "type": "Feature", "properties": { "name": "Stratford International", "tfl_statid": null, "lines": "L", "networks": "(1:DLR)", "tfl_nlcid": "504" }, "geometry": { "type": "Point", "coordinates": [ -0.0088611, 51.545763 ] } },
+{ "type": "Feature", "properties": { "name": "Stratford International", "tfl_statid": null, "lines": "L", "networks": "(1:DLR)", "tfl_nlcid": "504" }, "geometry": { "type": "Point", "coordinates": [ -0.0088611, 51.545763 ] } }
 ]
 }

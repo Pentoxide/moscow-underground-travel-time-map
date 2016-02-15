@@ -1,14 +1,15 @@
 line,name,colour,stripe,old_colour
-1,Bakerloo Line,894e24,NULL,AE6017
-3,Circle Line,ffce00,NULL,FFE02B
-6,Hammersmith & City Line,d799af,NULL,F491A8
-7,Jubilee Line,6a7278,NULL,949699
-11,Victoria Line,00a0e2,NULL,0A9CDA
-2,Central Line,dc241f,NULL,F15B2E
-4,District Line,007229,NULL,00A166
-5,East London Line,FBAE34,NULL,FBAE34
-8,Metropolitan Line,751056,NULL,91005A
-9,Northern Line,000000,NULL,0
-10,Piccadilly Line,0019a8,NULL,094FA3
-12,Waterloo & City Line,76d0bd,NULL,88D0C4
-13,Docklands Light Railway,00afad,FFFFFF,00A77E
+1,Sokolnicheskaya,ED1B35,NULL,ED1B35
+2,Zamoskvoretskaya,44B85C,NULL,44B85C
+3,Arbatsko-Pokrovskaya,0078BF,NULL,0078BF
+4,Filevskaya,19C1F3,NULL,19C1F3
+5,Circle,894E35,NULL,894E35
+6,Kaluzhsko-Rizhskaya,F58631,NULL,F58631
+7,Tagansko-Krasnopresnenskaya,8E479C,NULL,8E479C
+8,Kalininsko-Solncevskaya,FFCB31,NULL,FFCB31
+9,Serpuhovsko-Timirjazevskaya,A1A2A3,NULL,A1A2A3
+10,Lublinsko-Dmitrovskaya,B3D445,NULL,B3D445
+11,Kahovskaya,79CDCD,NULL,79CDCD
+12,Butovskaya,ACBFE1,NULL,ACBFE1
+13,Monorail,9999FF,NULL,9999FF
+14,MKZhD,8B0000,NULL,8B0000

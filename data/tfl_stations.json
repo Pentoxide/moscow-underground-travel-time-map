@@ -13,7 +13,7 @@
 { "type": "Feature", "properties": { "name": "Park kultury", "tfl_statid": null, "lines": "5", "networks": "(1:Classic)", "tfl_nlcid": "950" }, "geometry": { "type": "Point", "coordinates": [ 37.594167, 55.735556 ] } },
 { "type": "Feature", "properties": { "name": "Kievskaya", "tfl_statid": null, "lines": "5", "networks": "(1:Classic)", "tfl_nlcid": "950" }, "geometry": { "type": "Point", "coordinates": [ 37.5672, 55.7437 ] } },
 { "type": "Feature", "properties": { "name": "Krasnopresnenskaya", "tfl_statid": null, "lines": "5", "networks": "(1:Classic)", "tfl_nlcid": "950" }, "geometry": { "type": "Point", "coordinates": [ 37.577244, 55.760205 ] } },
-{ "type": "Feature", "properties": { "name": "Belorusskaya", "tfl_statid": null, "lines": "5", "networks": "(1:Classic)", "tfl_nlcid": "950" }, "geometry": { "type": "Point", "coordinates": [ 37.583889, 55.776944 ] } },
+{ "type": "Feature", "properties": { "name": "Белорусская", "tfl_statid": null, "lines": "5", "networks": "(1:Classic)", "tfl_nlcid": "950" }, "geometry": { "type": "Point", "coordinates": [ 37.583889, 55.776944 ] } },
 { "type": "Feature", "properties": { "name": "Novoslobodskaya", "tfl_statid": null, "lines": "5", "networks": "(1:Classic)", "tfl_nlcid": "950" }, "geometry": { "type": "Point", "coordinates": [ 37.601167, 55.779517 ] } }
 ]
 }
